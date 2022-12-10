@@ -1,0 +1,15 @@
+{
+    "name": "coco",
+    "short_name": "bongo",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "imagenes/pezz.png",
+        
+        "sizes": "225x225"
+      }]
+    }
